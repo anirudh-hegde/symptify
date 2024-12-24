@@ -1,0 +1,21 @@
+* {
+    color: white;
+}
+.stApp {
+    /*background: rgb(2,0,36);*/
+    /*background: rgba(39,116,42,1) 35%;*/
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(39,116,42,1) 35% , rgba(0,212,255,1) 100%);
+}
+.st-key-btn button:hover {
+    border: 3px solid green;
+    color: white;
+}
+
+.stApp > Header {
+    background-color: rgb(24, 26, 27);
+    border: 1px solid grey;
+}
+.stSidebar {
+    border: 1px solid grey;
+    background-color: rgb(24, 26, 27);
+}
