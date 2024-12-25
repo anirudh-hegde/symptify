@@ -9,7 +9,22 @@ This application is deployed on Posit Cloud, making it accessible and practical 
 - **Drug Information**: Provides detailed insights into related drugs, including usage and side effects.
 - **Precautionary Measures**: Suggests preventive steps to manage or avoid worsening of the predicted condition.
 
-  
+## Steps to run the project
+1. Clone the project project and navigate to the current directory
+   ```bash
+   git clone https://github.com/anirudh-hegde/symptify.git
+   cd symptify
+   ```
+2. Create a virtual environment and install the requirements
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
+3. Execute the project
+   ```bash
+   streamlit run symp_app.py
+   ```
 
 ## How to Use
 1. Open the application on Posit Cloud.
