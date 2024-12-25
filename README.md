@@ -35,3 +35,4 @@ This application is deployed on Posit Cloud, making it accessible and practical 
 ## Deployment
 Symptify is deployed on **Posit Cloud**, ensuring smooth and seamless access to users. This deployment leverages cloud scalability and 
 reliability to handle multiple users efficiently.
+Deployed web app link: [https://bit.ly/4guW19R](https://bit.ly/4guW19R)
