@@ -1,4 +1,4 @@
-# Symptify
+# ⚕️Symptify
 Symptify is an interactive symptom diagnosis tool that predicts medical conditions using a trained Decision Tree Classifier. 
 Users can select symptoms, view the predicted condition, and explore detailed drug information along with precautionary measures. 
 This application is deployed on Posit Cloud, making it accessible and practical for real-world use.
