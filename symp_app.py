@@ -125,7 +125,3 @@ st.markdown("""---""")
 st.markdown("### Code Repository")
 st.write("""You can find the complete code for this application in my GitHub repository [here](https://github.com/anirudh-hegde/).
 """)
-
-
-# ### Portfolio
-# For more info and insights about me, please visit my [portfolio](https://anirudh-presence.netlify.app/).
