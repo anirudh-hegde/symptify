@@ -141,6 +141,4 @@ st.write("""You can find the complete code for this application in my GitHub rep
 from sklearn.model_selection import cross_val_score
 
 scores = cross_val_score(rf_model, X, y, cv=5, scoring='accuracy')
-print("Cross-Validation Accuracy:", scores.mean())
-=======
->>>>>>> refs/remotes/origin/main
+print("Cross-Validation Accuracy:", scores.mean()) # Cross-Validation Accuracy: 0.94
