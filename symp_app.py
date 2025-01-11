@@ -135,9 +135,12 @@ st.markdown("""---""")
 st.markdown("### Code Repository")
 st.write("""You can find the complete code for this application in my GitHub repository [here](https://github.com/anirudh-hegde/).
 """)
+<<<<<<< HEAD
 
 
 from sklearn.model_selection import cross_val_score
 
 scores = cross_val_score(rf_model, X, y, cv=5, scoring='accuracy')
 print("Cross-Validation Accuracy:", scores.mean())
+=======
+>>>>>>> refs/remotes/origin/main
