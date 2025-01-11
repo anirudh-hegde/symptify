@@ -32,8 +32,6 @@ param_grid_rf = {
 }
 
 grid_search_rf = GridSearchCV(estimator=model, param_grid=param_grid_rf, cv=5, scoring='accuracy')
-# n_jobs=-1, verbose=2)
-# X_train=X_train.values
 # model.fit(X_train, y_train)
 grid_search_rf.fit(X_train, y_train)
 
