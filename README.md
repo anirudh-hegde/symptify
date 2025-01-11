@@ -2,7 +2,7 @@
 Symptify is an interactive symptom diagnosis tool that predicts medical conditions using a trained Decision Tree Classifier. 
 Users can select symptoms, view the predicted condition, and explore detailed drug information along with precautionary measures. 
 This application is deployed on Posit Cloud, making it accessible and practical for real-world use.
-
+Model accuracy was improved from **89%** to **94%** by implementing GridSearchCV hyperparameter tuning technique.
 ## Features
 - **Symptom Selection**: Users can choose from a comprehensive list of symptoms via an intuitive interface.
 - **Condition Prediction**: Predicts medical conditions based on user inputs using a machine learning model.
